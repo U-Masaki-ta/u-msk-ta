@@ -1,11 +1,12 @@
 body{
     margin: 0;
 }
-.uta{
-    max-height: 500px;
+.headback{
+    max-height: 450px;
     overflow: hidden;
 }
-.uta img{
+.headback img{
+    margin-top: -230px;
     height: auto;
     width: 100%;
 }
@@ -13,7 +14,6 @@ body{
 .textbox{
     height: auto;
     align-items: center;
-    height: 60%;
     margin: 1% 15%;
     margin-bottom: 40px;
     background: rgba(255, 255, 255, 0.966);
@@ -22,12 +22,14 @@ body{
 }
 .textbox p {
     margin: 0; 
-    padding: 1em;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
 }
-
 .about{
     background-color: rgba(7,57,60,0.85);
-    text-align: center;
     padding-bottom: 1px;
 }
 .about h1{
@@ -39,6 +41,30 @@ body{
     padding-top: 20px;
 }
 
+.prof{
+    padding-left: 20%;
+}
+.prof div{
+    display:inline-block;
+    vertical-align:top;
+}
+.prof h2{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.prof h4{
+    padding-left: 10%;
+}
+.prof a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.prof a:hover{
+    color:orangered;
+}
+.name{
+    width: 70%;
+}
 .achieves{
     background-color: rgba(62, 96, 100, 0.85);
     text-align: center;
