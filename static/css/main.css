@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+}
+.uta{
+    max-height: 500px;
+    overflow: hidden;
+}
+.uta img{
+    height: auto;
+    width: 100%;
+}
+
+.textbox{
+    height: auto;
+    align-items: center;
+    height: 60%;
+    margin: 1% 15%;
+    margin-bottom: 40px;
+    background: rgba(255, 255, 255, 0.966);
+    border-top: solid 5px rgba(10,9,12,0.85);
+    box-shadow: 0 3px 5px rgb(26, 26, 43);
+}
+.textbox p {
+    margin: 0; 
+    padding: 1em;
+}
+
+.about{
+    background-color: rgba(7,57,60,0.85);
+    text-align: center;
+    padding-bottom: 1px;
+}
+.about h1{
+    color: rgb(240,237,238);
+    width: 100%;
+    margin: 0;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding-top: 20px;
+}
+
+.achieves{
+    background-color: rgba(62, 96, 100, 0.85);
+    text-align: center;
+    padding-bottom: 1px;
+}
+.achieves h1{
+    color: rgb(240,237,238);
+    width: 100%;
+    margin: 0;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding-top: 20px;
+}
+
+.skills{
+    background-color: rgba(44,102,110,0.85);
+    text-align: center;
+    padding-bottom: 1px;
+}
+.skills h1{
+    color: rgb(240,237,238);
+    width: 100%;
+    margin: 0;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding-top: 20px;
+}
+.contact{
+    background-color: rgba(10,9,12,0.85);
+    text-align: center;
+    padding-bottom: 1px;
+}
+.contact h1{
+    color: rgb(240,237,238);
+    width: 100%;
+    margin: 0;
+    font-family: 'Times New Roman';
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact__menu{
+    height: auto;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.contact__menu ul{
+    width: 100%;
+    padding-left: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    color: rgb(240,237,238);
+}
+
+.contact__menu i{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.contact__menu i:hover{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}

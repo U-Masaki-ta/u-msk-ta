@@ -1,0 +1,9 @@
+.site-footer{
+    background-color: rgb(144,221,240);
+    padding: 10px 0;
+}
+.copyright{
+    color: rgb(10,9,12);
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+a.twitter:link, a.twitter:visited, a.twitter:active {
+    color: rgba(29,161,242,0.7);
+}
+a.twitter:hover {
+    color:rgb(29,161,242);
+}
+
+a.facebook:link, a.facebook:visited, a.facebook:active{
+    color: rgba(59, 89, 152, 0.7);
+}
+
+a.facebook:hover{
+    color: rgb(59, 89, 152);
+}
+
+a.note:link, a.note:visited, a.note:active{
+    color:rgba(82, 212, 169, 0.7);
+}
+
+a.note:hover{
+    color:rgb(82, 212, 169)
+}
+
+a.git:link, a.git:visited, a.git:active {
+    color: rgba(20,20,20,0.7);
+}
+
+a.git:hover{
+    color: rgb(20,20,20);
+}
+
+a.mail:link, a.mail:visited, a.mail:active {
+    color: rgba(116, 199, 231, 0.7);
+}
+a.mail:hover{
+    color: rgb(116, 199, 231)
+}
