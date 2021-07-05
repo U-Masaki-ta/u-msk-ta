@@ -21,6 +21,18 @@ body{
     border-top: solid 5px rgba(10,9,12,0.85);
     box-shadow: 0 3px 5px rgb(26, 26, 43);
 }
+
+.textbox-text{
+    height: auto;
+    align-items: center;
+    margin: 1% 15%;
+    margin-bottom: 40px;
+    padding-bottom: 0.3%;
+    background: rgba(255, 255, 255, 0.966);
+    border-top: solid 5px rgba(10,9,12,0.85);
+    box-shadow: 0 3px 5px rgb(26, 26, 43);
+}
+
 .textbox p {
     margin: 0; 
     padding: 5%;
